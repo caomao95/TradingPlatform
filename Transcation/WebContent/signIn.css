@@ -1,0 +1,14 @@
+@CHARSET "UTF-8";
+button{
+	border-radius:5px;
+}
+button submit:HOVER {
+	color:red;
+}
+a:HOVER {
+	font-size:15px;
+	color:red;	
+}
+a{
+	text-decoration:none;
+}
